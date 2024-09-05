@@ -28,6 +28,7 @@ jobs:
         # A file, directory or wildcard pattern that describes what to upload
         path: tests/bin
         retention-days: 1
+        name: artifact
   
   test:
     
